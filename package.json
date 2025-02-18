@@ -1,6 +1,8 @@
 {
+  "name": "twistcli_test",
+  "version": "1.0.0",
   "dependencies": {
-    "tar": "2.2.2",
-    "uglify-js": "2.4.24"
+    "materialize-css": "1.0.0",
+    "xmldom": "0.5.0"
   }
 }
